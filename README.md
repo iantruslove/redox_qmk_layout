@@ -2,7 +2,13 @@
 
 Fire up https://config.qmk.fm/#/redox/rev1/LAYOUT and load in the json file.
 
-Build firmware in the app, download the .hex file, and flash:
+Build firmware in the app, download and extract the source zip.
+
+Build and flash with
+
+    make redox/rev1:ian_qwerty:avrdude
+
+If you have to, manual flashing with a hex image looks like this:
 
     avrdude -p atmega32u4 -P $(PORT) -c avr109 -U flash:w:$(HEXFILE).hex
 
