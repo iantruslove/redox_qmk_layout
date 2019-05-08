@@ -64,11 +64,11 @@
             "KC_SLSH",
             "KC_RSFT",
 
-            "KC_LGUI",
+            "LCTL_T(KC_PSLS)",
             "KC_PPLS",
             "KC_PMNS",
             "LALT_T(KC_PAST)",
-            "LCTL_T(KC_PSLS)",
+            "KC_LGUI",
             "KC_BSPC",
             "KC_DEL",
             "KC_ENT",
