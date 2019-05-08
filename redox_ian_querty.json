@@ -91,7 +91,7 @@
             "KC_F8",
             "KC_F9",
             "KC_F10",
-            "KC_NO",
+            "KC_TRNS",
 
             "KC_TRNS",
             "KC_EXLM",
@@ -121,7 +121,7 @@
             "KC_P5",
             "KC_P6",
             "KC_NO",
-            "KC_NO",
+            "KC_TRNS",
 
             "KC_TRNS",
             "KC_PERC",
@@ -138,7 +138,7 @@
             "KC_P2",
             "KC_P3",
             "KC_NO",
-            "KC_NO",
+            "KC_TRNS",
 
             "KC_TRNS",
             "KC_TRNS",
